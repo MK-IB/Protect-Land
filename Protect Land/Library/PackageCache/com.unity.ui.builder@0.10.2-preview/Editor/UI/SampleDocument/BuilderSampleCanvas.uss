@@ -1,0 +1,16 @@
+.canvas-contents {
+    background-color: rgb(22, 0, 148);
+}
+
+Label.section-text {
+    background-color: rgb(14, 117, 1);
+}
+
+.section-field {
+    width: 400px;
+}
+
+.hidden-label {
+    height: 200px;
+    display: none;
+}
